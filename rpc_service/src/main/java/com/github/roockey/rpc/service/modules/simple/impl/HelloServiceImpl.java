@@ -1,7 +1,7 @@
-package com.github.roockey.rpc.sieve.modules.simple.impl;
+package com.github.roockey.rpc.service.modules.simple.impl;
 
-import com.github.roockey.rpc.sieve.core.RpcService;
-import com.github.roockey.rpc.sieve.modules.simple.HelloService;
+import com.github.roockey.rpc.service.core.RpcService;
+import com.github.roockey.rpc.service.modules.simple.HelloService;
 
 // 指定远程接口
 @RpcService(HelloService.class)

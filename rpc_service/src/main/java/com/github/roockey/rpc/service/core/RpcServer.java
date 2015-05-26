@@ -1,4 +1,4 @@
-package com.github.roockey.rpc.sieve.core;
+package com.github.roockey.rpc.service.core;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

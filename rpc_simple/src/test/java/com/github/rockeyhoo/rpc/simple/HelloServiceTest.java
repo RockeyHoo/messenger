@@ -1,7 +1,7 @@
 package com.github.rockeyhoo.rpc.simple;
 
 import com.github.rockeyhoo.rpc.client.RpcProxy;
-import com.github.roockey.rpc.sieve.modules.simple.HelloService;
+import com.github.roockey.rpc.service.modules.simple.HelloService;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

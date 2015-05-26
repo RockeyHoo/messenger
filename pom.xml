@@ -10,7 +10,7 @@
 
     <modules>
         <module>rpc_client</module>
-        <module>rpc_sieve</module>
+        <module>rpc_service</module>
         <module>rpc_common</module>
         <module>rpc_simple</module>
     </modules>
@@ -26,6 +26,7 @@
         <objenesis.version>2.1</objenesis.version>
         <cglib.version>3.1</cglib.version>
         <jetty.version>8.1.15.v20140411</jetty.version>
+        <guava.version>16.0.1</guava.version>
         <commons-collections4.version>4.0</commons-collections4.version>
     </properties>
 
@@ -104,6 +105,13 @@
                 <groupId>cglib</groupId>
                 <artifactId>cglib</artifactId>
                 <version>${cglib.version}</version>
+            </dependency>
+
+            <!-- google guava listUtils -->
+            <dependency>
+                <groupId>com.google.guava</groupId>
+                <artifactId>guava</artifactId>
+                <version>${guava.version}</version>
             </dependency>
         </dependencies>
 

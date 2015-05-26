@@ -1,4 +1,4 @@
-package com.github.roockey.rpc.sieve.core;
+package com.github.roockey.rpc.service.core;
 
 import java.io.IOException;
 import java.util.concurrent.CountDownLatch;

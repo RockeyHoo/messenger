@@ -19,7 +19,7 @@
 
         <dependency>
             <groupId>com.github.rockeyhoo</groupId>
-            <artifactId>rpc-sieve</artifactId>
+            <artifactId>rpc-service</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>

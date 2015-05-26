@@ -1,4 +1,4 @@
-package com.github.roockey.rpc.sieve.modules.simple;
+package com.github.roockey.rpc.service.modules.simple;
 
 public interface HelloService {
 

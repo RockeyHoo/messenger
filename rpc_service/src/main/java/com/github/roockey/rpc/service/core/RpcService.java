@@ -1,4 +1,4 @@
-package com.github.roockey.rpc.sieve.core;
+package com.github.roockey.rpc.service.core;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
